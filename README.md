@@ -77,5 +77,5 @@ I enjoy turning raw data into meaningful insights.
 
 # 📫 Contact Me
 📧 Email: pjpawan007@gmail.com
-💼 LinkedIn: your link  : inkedin.com/in/pawan-jogi-716992338/
+💼 LinkedIn: [inkedin.com/in/pawan-jogi-716992338/](https://www.linkedin.com/in/pawan-jogi-716992338/)
 💻 GitHub: your profile link : https://github.com/PawanJogi07/pawan-portfolio/edit/main/README.md
