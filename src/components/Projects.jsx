@@ -40,6 +40,15 @@ const projects = [
     image: "/projects/churn.png"
 
   },
+
+  {
+    title: "Retail Sales Analytics Dashboard",
+    tech: "Pandas• Numpy • Matplotlib • Seaborn",
+    github: "https://github.com/PawanJogi07/Retail-Sales-Analytics/tree/main",
+    live: "https://github.com/PawanJogi07/Retail-Sales-Analytics/blob/main/notebooks/Retail-Sales-Analytics.ipynb",
+    image: "/projects/corelation_heatmap.png"
+
+  },
   {
     title: "HR Analytics Dashboard",
     tech: "Power BI • Excel",
