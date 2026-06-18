@@ -1,16 +1,145 @@
-# React + Vite
+# 🚀 Pawan Jogi Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic Iron Man inspired personal portfolio built using React, Vite and modern web technologies.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Portfolio](https://pawan-portfolio-c8d2ww6ru-pawanjogi07s-projects.vercel.app/#contact)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I'm **Pawan Jogi**, a B.Tech student specializing in Artificial Intelligence and Data Science.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+My areas of interest include:
+
+* Data Analytics
+* Data Science
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Full Stack Development
+
+I build AI-powered applications, analytics dashboards, machine learning solutions, and production-ready web products.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* CSS3
+* Framer Motion
+
+### 3D & Animation
+
+* Three.js
+* React Three Fiber
+* React Three Drei
+
+### Tools
+
+* Git
+* GitHub
+* Vercel
+
+---
+
+## ✨ Features
+
+* Iron Man Inspired UI
+* Arc Reactor Animation
+* Smooth Scrolling Navigation
+* Responsive Design
+* Interactive Skills Section
+* Project Showcase
+* GitHub & Live Demo Integration
+* Resume Download
+* Contact Dashboard
+* Modern Glassmorphism Design
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 AI Projects
+
+#### EvoDS AI
+
+Self-Evolving Data Scientist AI platform with EDA, ML training and prediction capabilities.
+
+#### AI Traffic Management System
+
+Computer Vision based intelligent traffic monitoring system.
+
+#### AI Fraud Detection System
+
+Machine Learning powered fraud detection platform.
+
+#### CineBook
+
+Full-stack movie booking application inspired by BookMyShow.
+
+---
+
+### 📊 Power BI Dashboards
+
+* Customer Churn Dashboard
+* HR Analytics Dashboard
+* Netflix Analytics Dashboard
+* IPL Analytics Dashboard
+* Starbucks Analytics Dashboard
+* YatriKart Sales Dashboard
+* Sales Analytics Dashboard
+* Blinkit Analytics Dashboard
+* PhonePe Analytics Dashboard
+* Zomato Analytics Dashboard
+
+---
+
+### 🐍 Data Analytics Projects
+
+* Netflix Data Analysis
+* Amazon Data Analysis
+
+---
+
+## 📸 Portfolio Preview
+
+Add screenshots here:
+
+```text
+public/projects/
+├── EvoDs.png
+├── Cinebook.png
+├── AITraffic.png
+├── AIFraud.png
+├── zomato.png
+├── blinkit.png
+├── phonepe.png
+└── amazon.png
+```
+
+---
+
+
+
+## 📬 Connect With Me
+
+GitHub:
+https://github.com/PawanJogi07
+
+LinkedIn:
+https://www.linkedin.com/in/pawan-jogi-716992338/
+
+Email:
+[pjpawan007@gmail.com](mailto:pjpawan007@gmail.com)
+
+GeeksforGeeks:
+https://practice.geeksforgeeks.org/leaderboard
+
+---
