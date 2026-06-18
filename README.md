@@ -26,6 +26,22 @@ I build AI-powered applications, analytics dashboards, machine learning solution
 
 ---
 
+## 📸 Portfolio Preview
+
+### EvoDS AI
+![EvoDS AI](https://raw.githubusercontent.com/PawanJogi07/pawan-portfolio/main/EvoDs.png)
+
+### CineBook
+![CineBook](https://raw.githubusercontent.com/PawanJogi07/pawan-portfolio/main/Cinebook.png)
+
+### HR Analytics Dashboard
+![HR Analytics](https://raw.githubusercontent.com/PawanJogi07/pawan-portfolio/main/Hranalytics.png)
+
+### Netflix Dashboard
+![Netflix Dashboard](https://raw.githubusercontent.com/PawanJogi07/pawan-portfolio/main/netflix.png)
+
+### Amazon Data Analysis
+![Amazon Analysis](https://raw.githubusercontent.com/PawanJogi07/pawan-portfolio/main/amazon.png)
 ## 🛠️ Tech Stack
 
 ### Frontend
