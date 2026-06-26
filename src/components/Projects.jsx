@@ -8,6 +8,16 @@ const projects = [
     image: "/projects/EvoDs.png"
 
   },
+
+  {
+    title: "Global Trade Intelligence Platform",
+
+    tech: "React,MongoDB Atlas • FastAPI • Machine Learning",
+    github: "https://github.com/PawanJogi07/Global-Trade-Intelligence-Platform",
+    live: " https://global-trade-intelligence-platform-rfi3yxulj.vercel.app/",
+    image: "dashboard.png"
+
+  },
   {
     title: "AI Traffic Management System",
     tech: "Python • AI • Computer Vision",
@@ -40,6 +50,20 @@ const projects = [
     image: "/projects/churn.png"
 
   },
+
+
+{
+    title: "Customer Churn Dashboard",
+    tech: "Power BI • DAX • Excel",
+    github: "https://github.com/PawanJogi07/Customer-Churn-Dashboard",
+    live: "https://github.com/PawanJogi07/Customer-Churn-Dashboard",
+    image: "/projects/churn.png"
+
+  },
+
+
+
+
 
   {
     title: "Retail Sales Analytics Dashboard",
