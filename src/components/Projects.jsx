@@ -139,7 +139,7 @@ image: "/projects/netflix.png"
     tech: "Power BI • DAX • Excel",
     github: "ADD_GITHUB_LINK",
     live: "ADD_POWERBI_LINK",
-    image: "/projects/Cinebook.png"
+    image: "/projects/sales.png"
 
   },
   {
