@@ -12,7 +12,7 @@ const projects = [
   {
     title: "Global Trade Intelligence Platform",
 
-    tech: "React,MongoDB Atlas • FastAPI • Machine Learning",
+    tech: " python ,• MongoDB Atlas • Machine Learning",
     github: "https://github.com/PawanJogi07/Global-Trade-Intelligence-Platform",
     live: " https://global-trade-intelligence-platform-rfi3yxulj.vercel.app/",
     image: "/projects/globe.png"
@@ -30,8 +30,8 @@ const projects = [
 {
     title: "AI App COmpiler ",
     tech: "Python ,  • CRM , •LLM , • Machine Learning",
-    github: "https://github.com/PawanJogi07/AI-Fraud-System",
-    live: "https://ai-fraud-system.vercel.app/",
+    github: "https://github.com/PawanJogi07/AI-App-Compiler",
+    live: "https://ai-app-compiler-ruddy-eight.vercel.app//",
     image: "/projects/aiapp.png"
 
   },
@@ -52,7 +52,7 @@ const projects = [
     tech: "Python •EDA , •Machine Learning",
     github: "hhttps://github.com/PawanJogi07/-Flight-Price-Prediction-using-Machine-Learning",
     live: "https://github.com/PawanJogi07/-Flight-Price-Prediction-using-Machine-Learning/blob/main/Flight%20Prediction%20EDA.ipynb",
-    image: "/projects/flight.png"
+    image: "/projects/flight1.png"
 
   },
 
