@@ -26,12 +26,53 @@ const projects = [
     image: "/projects/AiTraffic.png"
 
   },
+
+{
+    title: "AI App COmpiler ",
+    tech: "Python • Machine Learning",
+    github: "https://github.com/PawanJogi07/AI-Fraud-System",
+    live: "https://ai-fraud-system.vercel.app/",
+    image: "/projects/AIFraud.png"
+
+  },
+
+
+
+  
   {
     title: "AI Fraud Detection System",
     tech: "Python • Machine Learning",
     github: "https://github.com/PawanJogi07/AI-Fraud-System",
     live: "https://ai-fraud-system.vercel.app/",
     image: "/projects/AIFraud.png"
+
+  },
+{
+    title: "Flight Prediction using EDA ",
+    tech: "Python • Machine Learning",
+    github: "https://github.com/PawanJogi07/AI-Fraud-System",
+    live: "https://ai-fraud-system.vercel.app/",
+    image: "/projects/AIFraud.png"
+
+  },
+
+{
+    title: "Zomato sales analysis usign EDA ",
+    tech: "Python • Machine Learning",
+    github: "https://github.com/PawanJogi07/AI-Fraud-System",
+    live: "https://ai-fraud-system.vercel.app/",
+    image: "/projects/AIFraud.png"
+
+  },
+
+
+
+  {
+    title: "Black Friday Sales Using EDA ",
+    tech: "Python • Machine Learning",
+    github: "https://github.com/PawanJogi07/AI-Fraud-System",
+    live: "https://ai-fraud-system.vercel.app/",
+    image: "/projects/blck11.png"
 
   },
   {
