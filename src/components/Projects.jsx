@@ -93,17 +93,6 @@ const projects = [
   },
 
 
-{
-    title: "Customer Churn Dashboard",
-    tech: "Power BI • DAX • Excel",
-    github: "https://github.com/PawanJogi07/Customer-Churn-Dashboard",
-    live: "https://github.com/PawanJogi07/Customer-Churn-Dashboard",
-    image: "/projects/churn.png"
-
-  },
-
-
-
 
 
   {
