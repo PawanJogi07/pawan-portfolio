@@ -15,7 +15,7 @@ const projects = [
     tech: "React,MongoDB Atlas • FastAPI • Machine Learning",
     github: "https://github.com/PawanJogi07/Global-Trade-Intelligence-Platform",
     live: " https://global-trade-intelligence-platform-rfi3yxulj.vercel.app/",
-    image: "dashboard.png"
+    image: "/projects/globe.png"
 
   },
   {
@@ -29,10 +29,10 @@ const projects = [
 
 {
     title: "AI App COmpiler ",
-    tech: "Python • Machine Learning",
+    tech: "Python ,  • CRM , •LLM , • Machine Learning",
     github: "https://github.com/PawanJogi07/AI-Fraud-System",
     live: "https://ai-fraud-system.vercel.app/",
-    image: "/projects/AIFraud.png"
+    image: "/projects/aiapp.png"
 
   },
 
@@ -49,19 +49,19 @@ const projects = [
   },
 {
     title: "Flight Prediction using EDA ",
-    tech: "Python • Machine Learning",
-    github: "https://github.com/PawanJogi07/AI-Fraud-System",
-    live: "https://ai-fraud-system.vercel.app/",
-    image: "/projects/AIFraud.png"
+    tech: "Python •EDA , •Machine Learning",
+    github: "hhttps://github.com/PawanJogi07/-Flight-Price-Prediction-using-Machine-Learning",
+    live: "https://github.com/PawanJogi07/-Flight-Price-Prediction-using-Machine-Learning/blob/main/Flight%20Prediction%20EDA.ipynb",
+    image: "/projects/flight.png"
 
   },
 
 {
     title: "Zomato sales analysis usign EDA ",
-    tech: "Python • Machine Learning",
-    github: "https://github.com/PawanJogi07/AI-Fraud-System",
-    live: "https://ai-fraud-system.vercel.app/",
-    image: "/projects/AIFraud.png"
+    tech: "Python • EDA , •Machine Learning",
+    github: "https://github.com/PawanJogi07/-Zomato-Data-Analysis-using-Python",
+    live: "https://github.com/PawanJogi07/-Zomato-Data-Analysis-using-Python/blob/main/Zomato%20EDA.ipynb",
+    image: "/projects/z1.png"
 
   },
 
@@ -70,8 +70,8 @@ const projects = [
   {
     title: "Black Friday Sales Using EDA ",
     tech: "Python • Machine Learning",
-    github: "https://github.com/PawanJogi07/AI-Fraud-System",
-    live: "https://ai-fraud-system.vercel.app/",
+    github: "https://github.com/PawanJogi07/-Black-Friday-Sales-Analysis-Purchase-Prediction",
+    live: "https://github.com/PawanJogi07/-Black-Friday-Sales-Analysis-Purchase-Prediction/blob/main/Black%20Friday%20EDA%20and%20Feature%20Engineering.ipynb",
     image: "/projects/blck11.png"
 
   },
