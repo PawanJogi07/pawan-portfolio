@@ -15,8 +15,8 @@ const projects = [
   title: "Company Knowledge AI Chatbot",
   tech: "Python • Streamlit • Groq API • RAG",
   github: "https://github.com/PawanJogi07/company-knowledge-chatbot",
-  live: "YOUR_STREAMLIT_APP_URL",
-  image: "/projects/companyai.png"
+  live: "https://company-knowledge-chatbot-bnjvbvzisqluxqu6pqebsk.streamlit.app/",
+  image: "/projects/company.png"
 },
 
 
